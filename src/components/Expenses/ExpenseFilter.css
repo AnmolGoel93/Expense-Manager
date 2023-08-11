@@ -1,0 +1,23 @@
+.expense-filter__year {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+  color: white;
+  width: 100%;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.expense-filter__year label {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.expense-filter__year select {
+  font: inherit;
+  padding: 0.5rem 3rem;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: bold;
+}
